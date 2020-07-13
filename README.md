@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Rodrigo 👋
 
+I am a software engineer mostly working with Java since 2002 and passionate about technologies in general, keen on learning Kotlin, Kubernetes/Istio, Cloud, Devops(CI/CD).
+
+To know more details about my experiences please look at [Linkedin](https://www.linkedin.com/in/rodrigo-rodrigues-a08aab15)
+
+Thank you :)
 <!--
 **rodrigorodrigues/rodrigorodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
