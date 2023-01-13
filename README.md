@@ -1,6 +1,6 @@
 ### Hi, I'm Rodrigo 👋
 
-I am a software engineer mostly working with Java since 2002 and passionate about technologies in general, keen on learning Kotlin, Kubernetes/Istio, Cloud, Devops(CI/CD).
+I am a software engineer mostly working with Java since 2002 and passionate about technologies in general, keen on learning Kotlin, Go, Python, Kubernetes, AWS.
 
 To know more details about my experiences please look at [Linkedin](https://www.linkedin.com/in/rodrigo-rodrigues-a08aab15)
 
